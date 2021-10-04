@@ -37,4 +37,5 @@ python3 main.py
 В планах придумать как это обходить
 
 SIGN_KEY для Шашек - falgcanfxehkufvcukydbvkudvgkuydsdasfdfvwvcyksed
+
 SIGN_KEY для 101 - fnd;vnbwk;vb ejkwfkjew fwek fewkj fjekw; f;kao oboiboniuj
