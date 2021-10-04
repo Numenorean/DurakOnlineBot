@@ -35,3 +35,6 @@ python3 main.py
 ### О блокировках
 Крутить можно, но без фанатизма, меня банило(обнуление + пару дней за победы будет награда 0), если крутил больше 400к в день
 В планах придумать как это обходить
+
+SIGN_KEY для Шашек - falgcanfxehkufvcukydbvkudvgkuydsdasfdfvwvcyksed
+SIGN_KEY для 101 - fnd;vnbwk;vb ejkwfkjew fwek fewkj fjekw; f;kao oboiboniuj
